@@ -8,8 +8,7 @@ def initials_test():
     assert exists == true
   except:
     sys.exit()
-main()
-output = get_display_output()
-#assert output == [
- # ""
-#]
+
+  
+  main()
+
