@@ -5,7 +5,7 @@ from initials import main
 def initials_test():
   try:
     exists=os.path.exists("initials.py")
-    assert exists == true
+    assert exists == True
   except:
     sys.exit()
 
