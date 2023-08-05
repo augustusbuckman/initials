@@ -10,4 +10,5 @@ def test_initials():
     except:
         sys.exit()
 
+
     main()
